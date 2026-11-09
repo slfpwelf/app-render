@@ -13,7 +13,7 @@ def home():
             <title>Mi aplicacion en Render</title>
         </head>
         <body>
-            <h1>Mi aplicacion funciona!</h1>
+            <h1>Mi aplicacion funciona despues de la modificacion!</h1>
             <p>Aplicacion desplegada correctamente en Render.</p>
             <p>Proyecto realizado con Python y Flask.</p>
         </body>
