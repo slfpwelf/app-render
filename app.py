@@ -10,10 +10,10 @@ def home():
     return """
     <html>
         <head>
-            <title>Mi aplicacion en Render modificada</title>
+            <title>Mi aplicacion en Render</title>
         </head>
         <body>
-            <h1>Mi aplicacion funciona!</h1>
+            <h1>Mi aplicacion v2 funciona!</h1>
             <p>Aplicacion desplegada correctamente en Render.</p>
             <p>Proyecto realizado con Python y Flask.</p>
         </body>
